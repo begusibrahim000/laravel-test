@@ -131,3 +131,23 @@ Aplikasi akan tersedia di `http://localhost:8000`atau `http://localhost:8000/log
    akses,
    username : admin@gmail.com
    password : password
+
+### Halaman
+
+# Admin :
+
+http://localhost:8000/
+
+http://localhost:8000/admin
+
+http://localhost:8000/pegawai
+
+http://localhost:8000/hari-kerja
+
+http://localhost:8000/gaji
+
+http://localhost:8000/absensi
+
+# pegawai :
+
+http://localhost:8000/absensi
